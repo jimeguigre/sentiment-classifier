@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1
+SVM,1.0,1.0,1.0,1.0
+RandomForest,1.0,1.0,1.0,1.0
+NaiveBayes,1.0,1.0,1.0,1.0
